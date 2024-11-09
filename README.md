@@ -1,0 +1,1 @@
+# windows-power-mode-switch
